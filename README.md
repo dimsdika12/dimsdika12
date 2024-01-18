@@ -1,7 +1,7 @@
 ### Hi there, I'm Dimas 👋
 ------
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24">](https://www.linkedin.com/in/mohamaddimasamardika/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="24">](https://www.instagram.com/https:/dimsdika12/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="24">](https://www.instagram.com/dimsdika12/)
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="24">](mailto:dimasamardika24@gmail.com)
 
 ### About Me
