@@ -13,7 +13,7 @@
 ### What I Do
 
 - 📊 I'm passionate about data! There's something satisfying about turning messy data into valuable insights and making informed decisions.
-- 🧑‍💼 Currently working as a Data Analyst at GotoImpact.
+- 🧑‍💼 Currently working as a Data Analyst at Cakap.(Intership)
 
 ### Tech Stack
 - 💻 Proficient in Python, SQL, R.
